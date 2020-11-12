@@ -89,3 +89,6 @@ glBindObject(GL_WINDOW_TARGET, 0);
 
 #### 2.1.3 环境
 
+![1605171808516](OpenGL/1605171808516.png)
+
+1. 
